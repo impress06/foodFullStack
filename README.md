@@ -1,6 +1,6 @@
 # Proje Adı: MERN Stack Food Order App
 
-![Proje Demo](./demo.gif)
+![Proje Demo](./foodOrder.gif)
 
 
 ## Live Site
